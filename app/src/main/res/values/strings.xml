@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ZomatoT</string>
+    <string name="zomato_api"><![CDATA[https://developers.zomato.com/api/v2.1/search?lat=-6.920738&lon=107.6265768&count=16]]></string>
+    <string name="zomato_api_detail"><![CDATA[https://developers.zomato.com/api/v2.1/restaurant]]></string>
+</resources>
